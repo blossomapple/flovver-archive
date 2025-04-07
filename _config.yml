@@ -1,9 +1,9 @@
 # Site settings
-title: PHOTORAMA
+title: flovver-archive
 email: ""
 description: "Photo Journal"
 url: "https://blossomapple.github.io"
-baseurl: "/photorama"
+baseurl: "/flovver-archive"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -56,7 +56,7 @@ paginate_path: "/journal/page:num/"
 permalink: "/journal/:title/"
 categories_path: "/journal/category/"
 tags_path: "/journal/tag/"
-gems: 
+plugins: 
  - jekyll-paginate
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
